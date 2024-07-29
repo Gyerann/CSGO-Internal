@@ -1,4 +1,4 @@
-Internal for CS:GO I've made some time ago.   
-Offsets were updated, the method used for ESP was patched   
-Because of this I'll share it here   
-If you still want to try launch the game without VAC and on an alt, you may stil get banned otherwise
+# Internal for CS:GO  
+Ive made this some time ago while messing around with reverse engineering and  
+Offsets were updated and the method used for ESP was patched since   
+I dont recommend testing, you will get VACd  
